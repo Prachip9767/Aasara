@@ -16,7 +16,7 @@ class HomeViewPagerAdapter(fragmentManager: FragmentManager, lifecycle: Lifecycl
         return when (position) {
             0 -> HomeFragment()
             1 -> StoreFragment()
-            2 -> NgoNearbyFragment()
+            2 -> NgosFragment()
             3 -> DonateFragment()
             4 -> EventsFragment()
             else -> createFragment(position)

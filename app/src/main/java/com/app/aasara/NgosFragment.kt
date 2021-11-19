@@ -11,12 +11,7 @@ import android.view.ViewGroup
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [NgoNearbyFragment.newInstance] factory method to
- * create an instance of this fragment.
- */
-class NgoNearbyFragment : Fragment() {
+class NgosFragment : Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
@@ -34,7 +29,7 @@ class NgoNearbyFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_ngo_nearby, container, false)
+        return inflater.inflate(R.layout.fragment_ngos, container, false)
     }
 
     companion object {
@@ -49,7 +44,7 @@ class NgoNearbyFragment : Fragment() {
         // TODO: Rename and change types and number of parameters
         @JvmStatic
         fun newInstance(param1: String, param2: String) =
-            NgoNearbyFragment().apply {
+            NgosFragment().apply {
                 arguments = Bundle().apply {
                     putString(ARG_PARAM1, param1)
                     putString(ARG_PARAM2, param2)
