@@ -1,0 +1,9 @@
+com/app/daan/BuildConfig.java
+ com.app.daan.BuildConfig
+com/app/daan/databinding/ActivityMaps2Binding.java
+ com.app.daan.databinding.ActivityMaps2Binding
+com/app/daan/databinding/ActivityMapsBinding.java
+ com.app.daan.databinding.ActivityMapsBinding
+com/app/daan/MapsActivity3.java
+ com.app.daan.MapsActivity3
+ com.app.daan.MapsActivity3$1

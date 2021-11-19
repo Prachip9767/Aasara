@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps2.xml",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_maps2.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_on_map_ready.xml",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\fragment_on_map_ready.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    }
+]
