@@ -1,17 +1,24 @@
 package com.app.aasara
 
+import android.content.Context
+import android.content.Intent
+import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.core.content.ContextCompat.startActivity
 import androidx.recyclerview.widget.RecyclerView
+import kotlin.coroutines.coroutineContext
 
 class EventAdapter(
     private var eventsFragment: EventsFragment,
     private val eventsList: MutableList<EventModel>,
     private var listener: OnEventItemClick
 ) : RecyclerView.Adapter<EventAdapter.EventViewHolder>() {
+
+    lateinit var context: Context
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): EventViewHolder {
         val view: View =
@@ -37,6 +44,21 @@ class EventAdapter(
 
     override fun getItemCount(): Int {
         return eventsList.size
+    }
+
+    private fun updateData(position: Int) {
+        val item: EventModel = eventsList[position]
+        val bundle = Bundle()
+        bundle.putString("id", item.id)
+        bundle.putString("name", item.name)
+        bundle.putString("desc", item.desc)
+        bundle.putString("category", item.category)
+        bundle.putString("date", item.date)
+        bundle.putString("location", item.location)
+        bundle.putString("duration", item.duration)
+        val intent = Intent(context, EventsFragment::class.java)
+        intent.putExtras(bundle)
+        context.startActivity(intent)
     }
 
     class EventViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {

@@ -31,6 +31,14 @@ class EventsFragment : Fragment(), OnEventItemClick {
         return inflater.inflate(R.layout.fragment_events, container, false)
     }
 
+    private lateinit var uid: String
+    private lateinit var uname: String
+    private lateinit var udesc: String
+    private lateinit var ucategory: String
+    private lateinit var udate: String
+    private lateinit var ulocation: String
+    private lateinit var uduration: String
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         addEvent = view.findViewById(R.id.addEvent)
