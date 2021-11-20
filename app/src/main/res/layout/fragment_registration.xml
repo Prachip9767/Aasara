@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f5f5f5"
+    tools:context=".RegistrationFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/regTool"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff8c00">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registration"
+            android:textAlignment="center"
+            android:textSize="24sp" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f5f5f5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvNameof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Name of NGO *"
+                android:textSize="18sp" />
+
+            <EditText
+                android:textColorHint="#757575"
+                android:autofillHints="name"
+                android:textColor="@color/black"
+                android:id="@+id/etNameof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Enter Name of NGO" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvstart"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Year of establishing"
+                android:textSize="18sp" />
+
+            <EditText
+                android:textColorHint="#757575"
+                android:textColor="@color/black"
+                android:id="@+id/etstart"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Year" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvaddof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Address *"
+                android:textSize="18sp" />
+
+            <EditText
+                android:textColorHint="#757575"
+                android:autofillHints="postalAddress"
+                android:textColor="@color/black"
+                android:id="@+id/etaddof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Enter Address of organization " />
+
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvcityof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="City *"
+                android:textSize="18sp" />
+
+            <EditText
+                android:textColorHint="#757575"
+                android:textColor="@color/black"
+                android:id="@+id/etcityof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Enter City" />
+
+            <TextView
+                android:textColorHint="#757575"
+                android:textColor="@color/black"
+                android:id="@+id/tvStateof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="State *"
+                android:textSize="18sp" />
+
+            <EditText
+                android:textColor="@color/black"
+                android:id="@+id/etStateof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Enter State" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvPhoneof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Contact No *"
+                android:textSize="18sp" />
+
+            <EditText
+                android:textColorHint="#757575"
+                android:autofillHints="phone"
+                android:textColor="@color/black"
+                android:id="@+id/etPhoneof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Enter Contact No" />
+
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvEmailof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Email"
+                android:textSize="18sp" />
+
+            <EditText
+                android:textColorHint="#757575"
+                android:autofillHints="emailAddress"
+                android:textColor="@color/black"
+                android:id="@+id/etEmailof"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Enter Email *" />
+
+            <Button
+                android:background="#ff8c00"
+                android:id="@+id/btnreg"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:text="Register" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>
