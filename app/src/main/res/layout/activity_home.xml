@@ -59,20 +59,23 @@
         android:id="@+id/homeViewPager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_above="@id/cardView"
         android:layout_below="@id/tbTolbar"
         android:background="#f5f5f5" />
 
-    <androidx.cardview.widget.CardView
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/cardView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_gravity="bottom"
-        app:cardElevation="@dimen/cardview_default_elevation">
+        app:cardElevation="@dimen/cardview_default_elevation"
+        app:layout_behavior="com.google.android.material.behavior.HideBottomViewOnScrollBehavior">
 
         <com.google.android.material.tabs.TabLayout
             android:id="@+id/homeTabLayout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:tabTextAppearance="@style/tab_text" />
-    </androidx.cardview.widget.CardView>
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
 </RelativeLayout>

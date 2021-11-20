@@ -1,2 +1,0 @@
-com/app/Aasara/BuildConfig.java
- com.app.Aasara.BuildConfig

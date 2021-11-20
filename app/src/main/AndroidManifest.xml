@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.app.Aasara">
+    package="com.app.aasara">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,13 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Aasara">
         <activity
-            android:name=".EditEventActivity"
+            android:name="com.app.aasara.EditEventActivity"
             android:exported="true" />
         <activity
-            android:name=".AddEventActivity"
+            android:name="com.app.aasara.AddEventActivity"
             android:exported="true" />
         <activity
-            android:name=".HomeActivity"
+            android:name="com.app.aasara.HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
