@@ -41,7 +41,7 @@
                 app:cardElevation="5dp"
                 android:layout_weight="1"
                 android:id="@+id/community"
-                android:background="#b0c4de"
+                android:background="@color/orange"
                 android:elevation="5dp"
                 android:layout_margin="20dp"
                 android:layout_width="wrap_content"
@@ -77,7 +77,7 @@
             <androidx.cardview.widget.CardView
                 app:cardElevation="5dp"
                 android:id="@+id/seekhelp"
-                android:background="#b0c4de"
+                android:background="#ff8c00"
                 android:elevation="5dp"
                 android:layout_margin="20dp"
                 android:layout_weight="1"
@@ -85,13 +85,13 @@
                 android:layout_height="wrap_content">
 
                 <LinearLayout
-                    android:background="#b0c4de"
+                    android:background="#ff8c00"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
                     <com.airbnb.lottie.LottieAnimationView
-                        android:background="#b0c4de"
+                        android:background="#ff8c00"
                         android:id="@+id/animationViewTwo"
                         android:layout_width="match_parent"
                         android:layout_height="153dp"
@@ -101,7 +101,7 @@
 
                     <TextView
                         android:layout_marginBottom="10dp"
-                        android:background="#b0c4de"
+                        android:background="#ff8c00"
                         android:textStyle="bold"
                         android:textAlignment="center"
                         android:textSize="18sp"
@@ -121,20 +121,20 @@
             app:cardElevation="5dp"
             android:layout_weight="1"
             android:id="@+id/csuggetions"
-            android:background="#b0c4de"
+            android:background="@color/orange"
             android:elevation="5dp"
             android:layout_margin="20dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
             <LinearLayout
-                android:background="#b0c4de"
+                android:background="@color/orange"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
                 <com.airbnb.lottie.LottieAnimationView
-                    android:background="#b0c4de"
+                    android:background="#ff8c00"
                     android:layout_width="match_parent"
                     android:layout_height="153dp"
                     app:lottie_autoPlay="true"
@@ -143,7 +143,7 @@
 
                 <TextView
                     android:layout_marginBottom="10dp"
-                    android:background="#b0c4de"
+                    android:background="@color/orange"
                     android:textStyle="bold"
                     android:textAlignment="center"
                     android:textSize="18dp"
@@ -157,7 +157,7 @@
         <androidx.cardview.widget.CardView
             app:cardElevation="5dp"
             android:id="@+id/reidter"
-            android:background="#b0c4de"
+            android:background="@color/orange"
             android:elevation="5dp"
             android:layout_margin="20dp"
             android:layout_weight="1"
@@ -165,13 +165,13 @@
             android:layout_height="wrap_content">
 
             <LinearLayout
-                android:background="#b0c4de"
+                android:background="@color/orange"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
                 <com.airbnb.lottie.LottieAnimationView
-                    android:background="#b0c4de"
+                    android:background="@color/orange"
                     android:layout_width="match_parent"
                     android:layout_height="153dp"
                     app:lottie_autoPlay="true"
@@ -180,7 +180,7 @@
 
                 <TextView
                     android:layout_marginBottom="10dp"
-                    android:background="#b0c4de"
+                    android:background="@color/orange"
                     android:textStyle="bold"
                     android:textAlignment="center"
                     android:textSize="18sp"
@@ -211,20 +211,20 @@
         <androidx.cardview.widget.CardView
             app:cardElevation="5dp"
             android:id="@+id/ivTopDonator1"
-            android:background="#b0c4de"
+            android:background="@color/orange"
             android:elevation="5dp"
             android:layout_margin="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
             <LinearLayout
-                android:background="#b0c4de"
+                android:background="@color/orange"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
 
                 <ImageButton
-                    android:background="#b0c4de"
+                    android:background="@color/orange"
                     android:layout_width="match_parent"
                     android:layout_height="153dp"
                     app:lottie_autoPlay="true"
@@ -233,7 +233,7 @@
 
                 <TextView
                     android:layout_margin="10dp"
-                    android:background="#b0c4de"
+                    android:background="@color/orange"
                     android:textStyle="bold"
                     android:textAlignment="center"
                     android:textSize="18sp"
@@ -246,7 +246,7 @@
                 android:layout_weight="1"
                 app:cardElevation="5dp"
                 android:id="@+id/ivTopDonator2"
-                android:background="#b0c4de"
+                android:background="@color/orange"
                 android:elevation="5dp"
                 android:layout_margin="10dp"
                 android:layout_width="wrap_content"
@@ -255,14 +255,13 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="197dp"
-                    android:background="#b0c4de"
+                    android:background="@color/orange"
                     android:orientation="vertical">
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="153dp"
-                        android:background="#b0c4de"
-                        app:lottie_autoPlay="true"
+                        android:background="@color/orange"                        app:lottie_autoPlay="true"
                         app:lottie_loop="true"
                         app:lottie_rawRes="@raw/sugettions" />
 
@@ -271,8 +270,7 @@
                         android:layout_height="match_parent"
                         android:layout_margin="10dp"
                         android:layout_marginBottom="2dp"
-                        android:background="#b0c4de"
-                        android:text="Mr.Shivraj Patil"
+                        android:background="@color/orange"                       android:text="Mr.Shivraj Patil"
                         android:textAlignment="center"
                         android:textSize="18sp"
                         android:textStyle="bold" />
@@ -282,21 +280,18 @@
                 android:layout_weight="1"
                 app:cardElevation="5dp"
                 android:id="@+id/ivTopDonator3"
-                android:background="#b0c4de"
-                android:elevation="5dp"
+                android:background="@color/orange"               android:elevation="5dp"
                 android:layout_margin="10dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
                 <LinearLayout
-                    android:background="#b0c4de"
-                    android:layout_width="match_parent"
+                    android:background="@color/orange"                    android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
                     <ImageView
-                        android:background="#b0c4de"
-                        android:layout_width="match_parent"
+                        android:background="@color/orange"                      android:layout_width="match_parent"
                         android:layout_height="153dp"
                         app:lottie_autoPlay="true"
                         app:lottie_loop="true"
@@ -304,8 +299,7 @@
 
                     <TextView
                         android:layout_margin="10dp"
-                        android:background="#b0c4de"
-                        android:textStyle="bold"
+                        android:background="@color/orange"                        android:textStyle="bold"
                         android:textAlignment="center"
                         android:textSize="18dp"
                         android:layout_width="match_parent"

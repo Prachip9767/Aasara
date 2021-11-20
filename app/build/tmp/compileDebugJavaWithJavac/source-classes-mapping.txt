@@ -1,2 +1,2 @@
-com/app/aasara/BuildConfig.java
- com.app.aasara.BuildConfig
+com/app/Aasara/BuildConfig.java
+ com.app.Aasara.BuildConfig
