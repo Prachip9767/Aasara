@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081141828538",
+    "project_id": "project-813ec",
+    "storage_bucket": "project-813ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081141828538:android:ca96dd716093e642959b83",
+        "android_client_info": {
+          "package_name": "com.app.aasara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081141828538-n651docmd758racl73ph65cbrpht1ih7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvBWFC_bA_jyOcD5wTB8AlwXXaNxLExc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081141828538-n651docmd758racl73ph65cbrpht1ih7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

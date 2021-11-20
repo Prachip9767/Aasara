@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context=".EditEventActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="10dp"
+            android:fontFamily="monospace"
+            android:text="Edit Event"
+            android:textColor="@android:color/holo_blue_dark"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:src="@drawable/edit" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_event_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/rectangle"
+        android:fontFamily="monospace"
+        android:hint="Event Name"
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/et_event_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/rectangle"
+        android:fontFamily="monospace"
+        android:hint="Event Description"
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/et_event_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/rectangle"
+        android:fontFamily="monospace"
+        android:hint="Event Category"
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/et_event_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/rectangle"
+        android:fontFamily="monospace"
+        android:hint="Event Date"
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/et_event_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/rectangle"
+        android:fontFamily="monospace"
+        android:hint="Event Location"
+        android:padding="15dp" />
+
+    <EditText
+        android:id="@+id/et_event_duration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/rectangle"
+        android:fontFamily="monospace"
+        android:hint="Event Duration"
+        android:inputType="number"
+        android:padding="15dp" />
+
+    <Button
+        android:id="@+id/updateEvent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/rectangle"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:fontFamily="monospace"
+        android:padding="15dp"
+        android:text="Update Event"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+</LinearLayout>
