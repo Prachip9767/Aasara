@@ -5,10 +5,10 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#f5f5f5"
-    tools:context=".RegistrationFragment">
+    tools:context=".RegestrationFragment">
 
     <androidx.appcompat.widget.Toolbar
-        android:id="@+id/regTool"
+        android:id="@+id/regTooll"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#ff8c00">
@@ -56,7 +56,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="Year of establishing"
+                android:text="Year of establishing *"
                 android:textSize="18sp" />
 
             <EditText
@@ -93,7 +93,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="City *"
+                android:text="Aadhar Card Number *"
                 android:textSize="18sp" />
 
             <EditText
@@ -103,7 +103,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:hint="Enter City" />
+                android:hint="Enter Aadhar Card Number" />
 
             <TextView
                 android:textColorHint="#757575"
@@ -112,7 +112,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="State *"
+                android:text="Driving License *"
                 android:textSize="18sp" />
 
             <EditText
@@ -121,7 +121,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:hint="Enter State" />
+                android:hint="Enter Driving License." />
 
             <TextView
                 android:textColor="@color/black"
@@ -148,7 +148,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:text="Email"
+                android:text="Passport *"
                 android:textSize="18sp" />
 
             <EditText
@@ -159,8 +159,38 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="10dp"
-                android:hint="Enter Email *" />
-
+                android:hint="Enter Passport Id *" />
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvvoter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Voter ID *"
+                android:textSize="18sp" />
+            <EditText
+                android:textColorHint="#757575"
+                android:autofillHints="emailAddress"
+                android:textColor="@color/black"
+                android:id="@+id/evvoter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="Enter Voter ID *" />
+            <TextView
+                android:textColor="@color/black"
+                android:id="@+id/tvbill"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="Upload A bill of water or electricity stating \n the address that is required to be registered *"
+                android:textSize="18sp" />
+<!--            <ImageView-->
+<!--                android:id="@+id/ivbill"-->
+<!--                android:layout_width="57dp"-->
+<!--                android:layout_height="44dp"-->
+<!--                android:layout_margin="10dp"-->
+<!--                android:src="@drawable/ic_baseline_image_search_24" />-->
             <Button
                 android:background="#ff8c00"
                 android:id="@+id/btnreg"
@@ -170,5 +200,4 @@
                 android:text="Register" />
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
-
 </LinearLayout>

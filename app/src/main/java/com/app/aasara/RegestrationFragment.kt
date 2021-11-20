@@ -15,20 +15,19 @@ import com.google.firebase.firestore.DocumentSnapshot
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 
-class EventsFragment : Fragment(), OnEventItemClick {
+class RegestrationFragment : Fragment(),OnEventItemClick {
 
-    private lateinit var addEvent: LinearLayout
-    private lateinit var eventAdapter: EventAdapter
+    private lateinit var addReg: LinearLayout
+    private lateinit var regAdapter: RegAdapter
     private lateinit var recyclerView: RecyclerView
-    private var eventsList: MutableList<EventModel> = mutableListOf()
+    private var reglist: MutableList<RegModel> = mutableListOf()
     private val db = Firebase.firestore
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_events, container, false)
+        return inflater.inflate(R.layout.fragment_regestration, container, false)
     }
 
     private lateinit var uid: String
@@ -37,21 +36,23 @@ class EventsFragment : Fragment(), OnEventItemClick {
     private lateinit var ucategory: String
     private lateinit var udate: String
     private lateinit var ulocation: String
-    private lateinit var uduration: String
+    private lateinit var upassport: String
+    private lateinit var uvoter: String
+//    private lateinit var uimage: String
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        addEvent = view.findViewById(R.id.addEvent)
+        addReg = view.findViewById(R.id.regTool)
 
         recyclerView = view.findViewById(R.id.eventsRecyclerView)
         recyclerView.setHasFixedSize(true)
         recyclerView.layoutManager = LinearLayoutManager(context)
 
-        eventAdapter = EventAdapter(this, eventsList, this)
-        recyclerView.adapter = eventAdapter
+        regAdapter = RegAdapter(this, reglist, this)
+        recyclerView.adapter = regAdapter
         fetchData()
 
-        addEvent.setOnClickListener {
+        addReg.setOnClickListener {
             val intent = Intent(context, AddEventActivity::class.java)
             startActivity(intent)
         }
@@ -59,50 +60,45 @@ class EventsFragment : Fragment(), OnEventItemClick {
 
     @SuppressLint("NotifyDataSetChanged")
     private fun fetchData() {
-        db.collection("events")
+        db.collection("regies")
             .get()
             .addOnCompleteListener {
-                eventsList.clear()
+                reglist.clear()
                 for (snapshot: DocumentSnapshot in it.result!!) {
-                    val eventModel =
-                        EventModel(
+                    val regModel =
+                        RegModel(
                             snapshot.getString("id"),
                             snapshot.getString("name"),
                             snapshot.getString("desc"),
                             snapshot.getString("category"),
                             snapshot.getString("date"),
                             snapshot.getString("location"),
-                            snapshot.getString("duration")
+                            snapshot.getString("duration"),
+                            snapshot.getString("passport"),
+                            snapshot.getString("voterid"),
+//                            snapshot.get("imgbill") as Int
                         )
-                    eventsList.add(eventModel)
+                    reglist.add(regModel)
                 }
-                eventAdapter.notifyDataSetChanged()
+                regAdapter.notifyDataSetChanged()
             }.addOnFailureListener {
                 Toast.makeText(context, "Failed to update events!", Toast.LENGTH_SHORT).show()
             }
     }
 
-   
-
     override fun onEditClicked(model: EventModel) {
-        val intent = Intent(context, EditEventActivity::class.java)
-        intent.putExtra("id", model.id)
-        intent.putExtra("name", model.name)
-        intent.putExtra("desc", model.desc)
-        intent.putExtra("category", model.category)
-        intent.putExtra("date", model.date)
-        intent.putExtra("location", model.location)
-        intent.putExtra("price", model.duration)
-        startActivity(intent)
+
     }
 
     @SuppressLint("NotifyDataSetChanged")
     override fun onDeleteClicked(model: EventModel) {
-        eventsList.clear()
-        eventAdapter.notifyDataSetChanged()
+
     }
 
+    @SuppressLint("NotifyDataSetChanged")
     override fun OnRegDetlete(model: RegModel) {
-
+        reglist.clear()
+        regAdapter.notifyDataSetChanged()
     }
 }
+

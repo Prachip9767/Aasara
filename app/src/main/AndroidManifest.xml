@@ -12,13 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Aasara">
         <activity
-            android:name="com.app.aasara.EditEventActivity"
+            android:name=".RegistrationApplication"
             android:exported="true" />
         <activity
-            android:name="com.app.aasara.AddEventActivity"
+            android:name=".EditEventActivity"
             android:exported="true" />
         <activity
-            android:name="com.app.aasara.HomeActivity"
+            android:name=".AddEventActivity"
+            android:exported="true" />
+        <activity
+            android:name=".HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,6 +29,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
