@@ -2,6 +2,7 @@
 
 <androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="#f5f5f5"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -46,13 +47,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
                 <LinearLayout
-                    android:background="#b0c4de"
+                    android:background="#ff8c00"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
 
                     <com.airbnb.lottie.LottieAnimationView
-                        android:background="#b0c4de"
+                        android:background="#ff8c00"
                         android:id="@+id/animationView"
                         android:layout_width="match_parent"
                         android:layout_height="153dp"
@@ -62,7 +63,7 @@
 
                     <TextView
                         android:layout_marginBottom="10dp"
-                        android:background="#b0c4de"
+                        android:background="#ff8c00"
                         android:textStyle="bold"
                         android:textAlignment="center"
                         android:textSize="18dp"

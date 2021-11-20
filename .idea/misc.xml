@@ -13,8 +13,13 @@
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/drawable/ic_menuicon.xml" value="0.2703125" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/drawable/layout_resource.xml" value="0.2703125" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/activity_home.xml" value="0.176" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/fragment_donate.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/fragment_events.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/fragment_home.xml" value="0.152" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/fragment_ngos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/fragment_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/fragment_seek_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/fragment_store.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara1/app/src/main/res/layout/slider_layout.xml" value="0.25416666666666665" />
       </map>
     </option>
