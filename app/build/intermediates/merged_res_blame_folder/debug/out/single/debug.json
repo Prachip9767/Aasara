@@ -8,16 +8,16 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_home.xml"
     },
     {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_item_reg.xml.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\item_reg.xml"
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_image_search_24.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_image_search_24.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_image_search_24.xml.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_image_search_24.xml"
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_item_reg.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\item_reg.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
@@ -28,24 +28,24 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_mic_24.xml"
     },
     {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_helpq.jpeg.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\helpq.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_event.xml.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_add_event.xml"
-    },
-    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_ngo_details_layout.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\ngo_details_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_event.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_add_event.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle.xml.flat",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\font\\amiko.xml"
     },
     {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_community.xml.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\fragment_community.xml"
-    },
-    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_anieve4.png.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\anieve4.png"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_community.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\fragment_community.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
@@ -168,16 +168,16 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\anieve1.png"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ani2.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ani2.png"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_furrybud.json.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\raw\\furrybud.json"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ani2.png.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ani2.png"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_slider_image.xml.flat",
@@ -312,12 +312,12 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\andopt.png"
     },
     {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ngo_details.xml.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_ngo_details.xml"
-    },
-    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_help2.jpeg.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\help2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ngo_details.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_ngo_details.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_forward_24.xml.flat",
