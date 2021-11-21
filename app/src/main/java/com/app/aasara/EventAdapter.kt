@@ -12,8 +12,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 class EventAdapter(
     private var eventsFragment: EventsFragment,
-    private val eventsList: MutableList<EventModel>,
-    private var listener: OnEventItemClick
+    private val eventsList: MutableList<EventModel>
 ) : RecyclerView.Adapter<EventAdapter.EventViewHolder>() {
 
     lateinit var context: Context
@@ -32,19 +31,19 @@ class EventAdapter(
         holder.date.text = event.date
         holder.location.text = event.location
         holder.duration.text = event.duration
-        holder.edit.setOnClickListener {
+        /*holder.edit.setOnClickListener {
             listener.onEditClicked(event)
         }
         holder.delete.setOnClickListener {
             listener.onDeleteClicked(event)
-        }
+        }*/
     }
 
     override fun getItemCount(): Int {
         return eventsList.size
     }
 
-    private fun updateData(position: Int) {
+    /*private fun updateData(position: Int) {
         val item: EventModel = eventsList[position]
         val bundle = Bundle()
         bundle.putString("id", item.id)
@@ -57,7 +56,7 @@ class EventAdapter(
         val intent = Intent(context, EventsFragment::class.java)
         intent.putExtras(bundle)
         context.startActivity(intent)
-    }
+    }*/
 
     class EventViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var name: TextView = itemView.findViewById(R.id.event_name)
@@ -66,7 +65,7 @@ class EventAdapter(
         var date: TextView = itemView.findViewById(R.id.event_date)
         var location: TextView = itemView.findViewById(R.id.event_location)
         var duration: TextView = itemView.findViewById(R.id.event_duration)
-        var edit: ImageView = itemView.findViewById(R.id.event_edit)
-        var delete: ImageView = itemView.findViewById(R.id.event_delete)
+        //var edit: ImageView = itemView.findViewById(R.id.event_edit)
+        //var delete: ImageView = itemView.findViewById(R.id.event_delete)
     }
 }

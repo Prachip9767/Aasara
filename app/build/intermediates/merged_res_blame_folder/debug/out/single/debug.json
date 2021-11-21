@@ -1,294 +1,350 @@
 [
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_expand_less_24.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_expand_less_24.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bell.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_bell.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_selling.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_selling.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_store.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_store.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_furrybud.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\furrybud.json"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_one.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\one.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_thankyou.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\thankyou.json"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_slider_image.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\slider_image.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_item_reg.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\item_reg.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_neeta_ambani.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\neeta_ambani.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\add.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_appnamelogo.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\appnamelogo.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_community.json.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\raw\\community.json"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_attach_file_24.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_baseline_attach_file_24.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_covid_vaccination.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_covid_vaccination.jpg"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\edit.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_location.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_event.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_event.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_seekhelp.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\seekhelp.json"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registration_application.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_registration_application.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\font_amiko.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\font\\amiko.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_help_disabled.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_help_disabled.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_image_search_24.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_baseline_image_search_24.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_resister.json.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\raw\\resister.json"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_circularbordersolid.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\circularbordersolid.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\rectangle.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_events.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_events.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_events.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_events.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_donate.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_donate.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_slider_layout.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\slider_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_ngo_details_layout.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\ngo_details_layout.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ngo_details.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_ngo_details.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_add.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\add.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\rectangle.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_delete.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\delete.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_location.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_event.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_add_event.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_ngo_details_layout.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\ngo_details_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_one.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\one.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_kushboo_jain.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\kushboo_jain.jpg"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_notification.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\notification.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_dogandme.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\dogandme.json"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registration_application.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_registration_application.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_seek_help.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_seek_help.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_appnamelogo.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\appnamelogo.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_community.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\community.json"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_sugettions.json.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\raw\\sugettions.json"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_sponser_movie.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_sponser_movie.jpg"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_event.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_event.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_selling_layout.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\selling_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_resister.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\resister.json"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_event.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_add_event.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_store.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_store.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menuicon.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_menuicon.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_furrybud.json.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\raw\\furrybud.json"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_expand_less_24.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_baseline_expand_less_24.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_attach_file_24.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_attach_file_24.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_furry_buddy.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_furry_buddy.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_seekhelp.json.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\raw\\seekhelp.json"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\edit.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_lloyd.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\lloyd.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_thank_you.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_thank_you.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_homep.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\homep.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_homep.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\homep.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_help.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_help.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ngo_details.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_ngo_details.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_dogandme.json.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\raw\\dogandme.json"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_event.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_edit_event.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_volunteer.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_volunteer.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_thank_you.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_thank_you.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\font_amiko.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\font\\amiko.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_mic_24.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_baseline_mic_24.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_notification.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\notification.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_seek_help.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_seek_help.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_event_item_layout.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\event_item_layout.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_home.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menuicon.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_menuicon.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_three.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\three.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_celebrate_birthday.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_celebrate_birthday.jpg"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_sugettions.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\sugettions.json"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_furry_buddy.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_furry_buddy.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_selling_layout.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\selling_layout.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_event_item_layout.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\event_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_icons8_home.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_icons8_home.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_charity_toys.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_charity_toys.jpg"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_donate.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_donate.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_mother.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\mother.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ngos.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_ngos.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\font_baloo.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\font\\baloo.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_regestration.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_regestration.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_lloyd.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\lloyd.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_share_meal.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_share_meal.jpg"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_delete.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\delete.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_thankyou.json.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\raw\\thankyou.json"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_slider_image.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\slider_image.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_payment.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_donate.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_donate.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_mother.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\mother.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_community.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_community.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_two.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\two.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_payment.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_payment.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_organs_donation.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_organs_donation.jpg"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\font_baloo.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\font\\baloo.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_three.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\three.png"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bell.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_bell.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_home.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_slider_layout.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\slider_layout.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_two.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\two.png"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_store.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_store.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_mic_24.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_mic_24.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_regestration.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_regestration.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_event.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_edit_event.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_community.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_community.xml"
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_circularbordersolid.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\circularbordersolid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_web_view.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_image_search_24.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_image_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_store.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_share_veggies.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_share_veggies.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_selling.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\activity_selling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ngos.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\fragment_ngos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_help_elderly.png.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_help_elderly.png"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_item_reg.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\layout\\item_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_v_blood_donation.jpg.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\v_blood_donation.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_icons8_home.xml.flat",
+        "source": "C:\\Users\\Leena\\Documents\\Android\\Kotlin\\Projects\\Aasara\\app\\src\\main\\res\\drawable\\ic_icons8_home.xml"
     }
 ]

@@ -1948,6 +1948,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_store
+drawable kushboo_jain
 drawable lloyd
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
@@ -1971,6 +1972,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_dark
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable neeta_ambani
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -1991,6 +1993,17 @@ drawable three
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable two
+drawable v_blood_donation
+drawable v_celebrate_birthday
+drawable v_charity_toys
+drawable v_covid_vaccination
+drawable v_help_disabled
+drawable v_help_elderly
+drawable v_organs_donation
+drawable v_share_meal
+drawable v_share_veggies
+drawable v_sponser_movie
+drawable v_volunteer
 font amiko
 font baloo
 id ALT
@@ -2097,6 +2110,7 @@ id beginOnFirstDraw
 id beginning
 id bestChoice
 id blocking
+id blood_donation
 id bottom
 id bounce
 id bounceBoth
@@ -2113,6 +2127,7 @@ id cancel_action
 id cancel_button
 id cardView
 id carryVelocity
+id celebrate_birthday
 id center
 id center_horizontal
 id center_vertical
@@ -2146,6 +2161,7 @@ id continuousVelocity
 id coordinator
 id cos
 id counterclockwise
+id covid_vaccination
 id createEvent
 id csuggetions
 id currentState
@@ -2222,10 +2238,8 @@ id ethelp
 id etstart
 id event_category
 id event_date
-id event_delete
 id event_desc
 id event_duration
-id event_edit
 id event_location
 id event_name
 id eventsRecyclerView
@@ -2260,6 +2274,8 @@ id groups
 id guideline
 id hardware
 id header_title
+id help_disabled
+id help_elderly
 id hideable
 id home
 id homeAsUp
@@ -2406,6 +2422,7 @@ id notification_main_column_container
 id off
 id on
 id onInterceptTouchReturnSwipe
+id organ_donation
 id outline
 id outward
 id overshoot
@@ -2437,6 +2454,7 @@ id regRecyclerview
 id regTool
 id regTooll
 id reidter
+id relative_layout_one
 id restart
 id reverse
 id reverseSawtooth
@@ -2474,6 +2492,9 @@ id selected
 id selection_type
 id sellingRecyclerView
 id send
+id share_fruits_veggies
+id share_meal
+id share_toys
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -2495,6 +2516,7 @@ id special_effects_controller_view_tag
 id spinner
 id spline
 id split_action_bar
+id sponser_movie
 id spread
 id spread_inside
 id spring
@@ -2577,6 +2599,16 @@ id tvPhone
 id tvPhoneof
 id tvState
 id tvStateof
+id tv_blood_donation
+id tv_celebrate_birthday
+id tv_covid_vaccination
+id tv_help_disabled
+id tv_help_elderly
+id tv_organ_donation
+id tv_share_fruits_veggies
+id tv_share_meal
+id tv_share_toys
+id tv_sponser_movie
 id tvadd
 id tvaddof
 id tvbill
@@ -2603,6 +2635,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id webView
 id west
 id wide
 id withText
@@ -2690,6 +2723,7 @@ layout activity_ngo_details
 layout activity_payment
 layout activity_registration_application
 layout activity_selling
+layout activity_web_view
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2708,9 +2742,9 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout event_item_layout
 layout fragment_community
-layout fragment_donate
 layout fragment_events
 layout fragment_furry_buddy
+layout fragment_help
 layout fragment_home
 layout fragment_ngos
 layout fragment_regestration

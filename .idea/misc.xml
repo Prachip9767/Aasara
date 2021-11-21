@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Leena/Documents/Android/Kotlin/Projects/Aasara/app/src/main/res/layout/activity_home.xml" value="0.10597826086956522" />
+        <entry key="..\:/Users/Leena/Documents/Android/Kotlin/Projects/Aasara/app/src/main/res/layout/activity_ngo_details.xml" value="0.10597826086956522" />
+        <entry key="..\:/Users/Leena/Documents/Android/Kotlin/Projects/Aasara/app/src/main/res/layout/activity_web_view.xml" value="0.10597826086956522" />
+        <entry key="..\:/Users/Leena/Documents/Android/Kotlin/Projects/Aasara/app/src/main/res/layout/fragment_help.xml" value="0.10597826086956522" />
+        <entry key="..\:/Users/Leena/Documents/Android/Kotlin/Projects/Aasara/app/src/main/res/layout/fragment_home.xml" value="0.10597826086956522" />
+        <entry key="..\:/Users/Leena/Documents/Android/Kotlin/Projects/Aasara/app/src/main/res/layout/fragment_ngos.xml" value="0.9435483870967742" />
+        <entry key="..\:/Users/Leena/Documents/Android/Kotlin/Projects/Aasara/app/src/main/res/layout/fragment_store.xml" value="0.10597826086956522" />
         <entry key="..\:/Users/Leena/StudioProjects/Aasara/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/Leena/StudioProjects/Aasara/app/src/main/res/drawable/ic_bell.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/Leena/StudioProjects/Aasara/app/src/main/res/drawable/ic_donate.xml" value="0.19583333333333333" />

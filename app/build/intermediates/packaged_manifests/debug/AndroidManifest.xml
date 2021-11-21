@@ -10,7 +10,6 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
@@ -24,19 +23,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.Aasara" >
+        android:theme="@style/Theme.Aasara"
+        android:usesCleartextTraffic="true" >
         <activity
             android:name="com.app.aasara.Payment"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
 
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"
             android:resource="@drawable/ic_icons8_home" />
-        <!--
- Set color used with incoming notification messages. This is used when no color is set for the incoming
-             notification message. See README(https://goo.gl/6BKBk7) for more.
-        -->
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_color"
             android:resource="@color/orange" />
@@ -49,17 +44,10 @@
             android:exported="true" />
         <activity
             android:name="com.app.aasara.AddEventActivity"
-            android:exported="true" >
-            android:name=".sellingDetails.SellingActivity"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
         <activity
-            android:name="com.app.aasara.ngoDetail.NgoDetailsActivity"
-            android:exported="true" >
-        </activity>
-        <!-- <activity -->
-        <!-- android:name=".HomeActivity" -->
-        <!-- android:exported="true"></activity> -->
+            android:name="com.app.aasara.WebActivity"
+            android:exported="true" />
 
         <meta-data
             android:name="preloaded_fonts"

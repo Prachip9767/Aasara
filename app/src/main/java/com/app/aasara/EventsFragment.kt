@@ -14,8 +14,10 @@ import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.firestore.DocumentSnapshot
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
+import android.os.Build
+import androidx.fragment.app.FragmentTransaction
 
-class EventsFragment : Fragment(), OnEventItemClick {
+class EventsFragment : Fragment() {
 
     private lateinit var addEvent: LinearLayout
     private lateinit var eventAdapter: EventAdapter
@@ -31,30 +33,21 @@ class EventsFragment : Fragment(), OnEventItemClick {
         return inflater.inflate(R.layout.fragment_events, container, false)
     }
 
-    private lateinit var uid: String
-    private lateinit var uname: String
-    private lateinit var udesc: String
-    private lateinit var ucategory: String
-    private lateinit var udate: String
-    private lateinit var ulocation: String
-    private lateinit var uduration: String
-
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         addEvent = view.findViewById(R.id.addEvent)
+        addEvent.setOnClickListener {
+            val intent = Intent(context, AddEventActivity::class.java)
+            startActivity(intent)
+        }
 
         recyclerView = view.findViewById(R.id.eventsRecyclerView)
         recyclerView.setHasFixedSize(true)
         recyclerView.layoutManager = LinearLayoutManager(context)
 
-        eventAdapter = EventAdapter(this, eventsList, this)
+        eventAdapter = EventAdapter(this, eventsList)
         recyclerView.adapter = eventAdapter
         fetchData()
-
-        addEvent.setOnClickListener {
-            val intent = Intent(context, AddEventActivity::class.java)
-            startActivity(intent)
-        }
     }
 
     @SuppressLint("NotifyDataSetChanged")
@@ -80,29 +73,5 @@ class EventsFragment : Fragment(), OnEventItemClick {
             }.addOnFailureListener {
                 Toast.makeText(context, "Failed to update events!", Toast.LENGTH_SHORT).show()
             }
-    }
-
-   
-
-    override fun onEditClicked(model: EventModel) {
-        val intent = Intent(context, EditEventActivity::class.java)
-        intent.putExtra("id", model.id)
-        intent.putExtra("name", model.name)
-        intent.putExtra("desc", model.desc)
-        intent.putExtra("category", model.category)
-        intent.putExtra("date", model.date)
-        intent.putExtra("location", model.location)
-        intent.putExtra("price", model.duration)
-        startActivity(intent)
-    }
-
-    @SuppressLint("NotifyDataSetChanged")
-    override fun onDeleteClicked(model: EventModel) {
-        eventsList.clear()
-        eventAdapter.notifyDataSetChanged()
-    }
-
-    override fun OnRegDetlete(model: RegModel) {
-
     }
 }

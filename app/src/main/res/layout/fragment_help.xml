@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/orange"
+    tools:context=".HelpFragment">
+
+    <RelativeLayout
+        android:id="@+id/relative_layout_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/blood_donation"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:background="@drawable/v_blood_donation" />
+
+        <TextView
+            android:id="@+id/tv_blood_donation"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/blood_donation"
+            android:text="Blood Donation"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/organ_donation"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@id/blood_donation"
+            android:background="@drawable/v_organs_donation" />
+
+        <TextView
+            android:id="@+id/tv_organ_donation"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/organ_donation"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@id/blood_donation"
+            android:text="Organ Donation"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/covid_vaccination"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_blood_donation"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/v_covid_vaccination" />
+
+        <TextView
+            android:id="@+id/tv_covid_vaccination"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/covid_vaccination"
+            android:text="Covid-19"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/share_meal"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_organ_donation"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/covid_vaccination"
+            android:background="@drawable/v_share_meal" />
+
+        <TextView
+            android:id="@+id/tv_share_meal"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/share_meal"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@id/covid_vaccination"
+            android:text="Share A Meal"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/share_fruits_veggies"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_covid_vaccination"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/v_share_veggies" />
+
+        <TextView
+            android:id="@+id/tv_share_fruits_veggies"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/share_fruits_veggies"
+            android:text="Fruits and Veggies"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/help_elderly"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_share_meal"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/share_fruits_veggies"
+            android:background="@drawable/v_help_elderly" />
+
+        <TextView
+            android:id="@+id/tv_help_elderly"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/help_elderly"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@id/share_fruits_veggies"
+            android:text="Help Elder People"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/sponser_movie"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_help_elderly"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/v_sponser_movie" />
+
+        <TextView
+            android:id="@+id/tv_sponser_movie"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sponser_movie"
+            android:text="Sponser a Movie"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/share_toys"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_help_elderly"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/sponser_movie"
+            android:background="@drawable/v_charity_toys" />
+
+        <TextView
+            android:id="@+id/tv_share_toys"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/share_toys"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@id/sponser_movie"
+            android:text="Share Toys"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/help_disabled"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_sponser_movie"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/v_help_disabled" />
+
+        <TextView
+            android:id="@+id/tv_help_disabled"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/help_disabled"
+            android:text="Help Disabled"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/celebrate_birthday"
+            android:layout_width="160dp"
+            android:layout_height="180dp"
+            android:layout_below="@id/tv_share_toys"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/help_disabled"
+            android:background="@drawable/v_celebrate_birthday" />
+
+        <TextView
+            android:id="@+id/tv_celebrate_birthday"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/celebrate_birthday"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@id/help_disabled"
+            android:text="Celebrate Birthday"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</androidx.core.widget.NestedScrollView>

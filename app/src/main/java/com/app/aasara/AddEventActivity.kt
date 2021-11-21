@@ -62,20 +62,14 @@ private lateinit var notificationManager: NotificationManager
         createEvent = findViewById(R.id.createEvent)
 
         createEvent.setOnClickListener {
-            val name = name.text.toString()
-            val desc = desc.text.toString()
-            val category = category.text.toString()
-            val date = date.text.toString()
-            val location = location.text.toString()
-            val duration = duration.text.toString()
             // Create a new event
             val event = hashMapOf(
-                "name" to name,
-                "desc" to desc,
-                "category" to category,
-                "date" to date,
-                "location" to location,
-                "duration" to duration
+                "name" to name.text.toString(),
+                "desc" to name.text.toString(),
+                "category" to category.text.toString(),
+                "date" to date.text.toString(),
+                "location" to location.text.toString(),
+                "duration" to duration.text.toString()
             )
             // Add a new document with a generated ID
             db.collection("events")
@@ -85,19 +79,10 @@ private lateinit var notificationManager: NotificationManager
                     Log.d(TAG, "DocumentSnapshot added with ID: ${documentReference.id}")
                 }
                 .addOnFailureListener { e ->
-                    Log.w(TAG, "Error adding document", e)
+                    Toast.makeText(this, "Failed to create event!", Toast.LENGTH_SHORT).show()
+                    Log.w(TAG, "Error: Unable to create event!", e)
                 }
-
-            eventsList.clear()
-            eventAdapter.notifyDataSetChanged()
-            val intent = Intent(this, EventsFragment::class.java)
-            intent.putExtra("name", name)
-            intent.putExtra("desc", desc)
-            intent.putExtra("category", category)
-            intent.putExtra("date", date)
-            intent.putExtra("location", location)
-            intent.putExtra("duration", duration)
-            startActivity(intent)
+            //startActivity(Intent(this, EventsFragment::class.java))
         }
     }
     private fun NotyBtn() {

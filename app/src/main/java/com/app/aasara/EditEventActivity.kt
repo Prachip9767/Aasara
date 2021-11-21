@@ -20,6 +20,7 @@ class EditEventActivity : AppCompatActivity() {
     private val updateEvent: Button = findViewById(R.id.updateEvent)
     private var eventsList: MutableList<EventModel> = mutableListOf()
     private lateinit var eventAdapter: EventAdapter
+
     // Access a Cloud Firestore instance from your Activity
     private val db = Firebase.firestore
 

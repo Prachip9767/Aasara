@@ -44,7 +44,7 @@ class HomeActivity : AppCompatActivity() {
                 }
                 3 -> {
                     tab.setIcon(R.drawable.ic_donate)
-                    tab.text = "Donate"
+                    tab.text = "Help"
                 }
                 4 -> {
                     tab.setIcon(R.drawable.ic_event)
