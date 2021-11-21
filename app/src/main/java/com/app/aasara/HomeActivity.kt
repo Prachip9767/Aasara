@@ -13,7 +13,7 @@ class HomeActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.fragment_furry_buddy)
+        setContentView(R.layout.activity_home)
         initViews()
         setViewPagerAdapter()
     }

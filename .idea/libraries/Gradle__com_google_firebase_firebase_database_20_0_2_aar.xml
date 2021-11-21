@@ -10,6 +10,7 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database/20.0.2/2bf6e5e6a66f52833d24bf0fa20e4b28b7a10b8d/firebase-database-20.0.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database/20.0.2/2bf6e5e6a66f52833d24bf0fa20e4b28b7a10b8d/firebase-database-20.0.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
