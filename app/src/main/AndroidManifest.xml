@@ -15,6 +15,9 @@
         android:theme="@style/Theme.Aasara"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".NgoFullDetailsActivity"
+            android:exported="false" />
+        <activity
             android:name=".Payment"
             android:exported="true" />
 
@@ -37,9 +40,11 @@
         <activity
             android:name=".WebActivity"
             android:exported="true" />
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
         <activity
             android:name=".HomeActivity"
             android:exported="true">
