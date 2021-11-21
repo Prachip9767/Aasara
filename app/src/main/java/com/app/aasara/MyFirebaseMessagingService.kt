@@ -24,29 +24,11 @@ import com.google.firebase.messaging.RemoteMessage
 
 
 class MyFirebaseMessagingService:FirebaseMessagingService() {
-@SuppressLint("UnspecifiedImmutableFlag")
-  // Override onMessageReceived() method to extract the
-    // title and
-    // body from the message passed in FCM
-    override fun onMessageReceived(remoteMessage: RemoteMessage) {
-        // First case when notifications are received via
-        // data event
-        // Here, 'title' and 'message' are the assumed names
-        // of JSON
-        // attributes. Since here we do not have any data
-        // payload, This section is commented out. It is
-        // here only for reference purposes.
-        /*if(remoteMessage.getData().size()>0){
-            showNotification(remoteMessage.getData().get("title"),
-                          remoteMessage.getData().get("message"));
-        }*/
+    @SuppressLint("UnspecifiedImmutableFlag")
 
-        // Second case when notification payload is
-        // received.
+    override fun onMessageReceived(remoteMessage: RemoteMessage) {
         if (remoteMessage.notification != null) {
-            // Since the notification is received directly from
-            // FCM, the title and the body can be fetched
-            // directly as below.
+
             showNotification(
                 remoteMessage.notification!!.title,
                 remoteMessage.notification!!.body
@@ -54,8 +36,6 @@ class MyFirebaseMessagingService:FirebaseMessagingService() {
         }
     }
 
-    // Method to get the custom Design for the display of
-    // notification.
     private fun getCustomDesign(
         title: String?,
         message: String?
@@ -72,22 +52,15 @@ class MyFirebaseMessagingService:FirebaseMessagingService() {
         )
         return remoteViews
     }
-
-    // Method to display the notifications
     fun showNotification(
         title: String?,
         message: String?
     ) {
-        // Pass the intent to switch to the MainActivity
         val intent = Intent(this, AddEventActivity::class.java)
         // Assign channel ID
         val channel_id = "notification_channel"
-        // Here FLAG_ACTIVITY_CLEAR_TOP flag is set to clear
-        // the activities present in the activity stack,
-        // on the top of the Activity that is to be launched
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
-        // Pass the intent to PendingIntent to start the
-        // next Activity
+
         val pendingIntent = PendingIntent.getActivity(
             this, 0, intent,
             PendingIntent.FLAG_ONE_SHOT
