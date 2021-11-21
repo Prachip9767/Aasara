@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".furryBuddy">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
 
     <TextView
         android:layout_marginTop="10dp"
@@ -15,7 +19,8 @@
         android:layout_height="wrap_content"
         android:text="Furry Buddy"
         android:textColor="@color/black"
-        android:textSize="24sp" />
+        android:textSize="24sp"
+        />
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/furry"
@@ -30,13 +35,205 @@
         android:scaleType="centerCrop"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
-        app:lottie_rawRes="@raw/dogandme" />
-<TextView
-    android:layout_marginTop="10dp"
-    android:layout_below="@id/furry"
-    android:layout_width="match_parent"
-    android:textSize="24sp"
-    android:text="For Those Who Cannot Speak....."
-    android:layout_height="wrap_content"/>
+        app:lottie_rawRes="@raw/happydog" />
 
+    <TextView
+        android:id="@+id/forthos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/furry"
+        android:layout_marginTop="10dp"
+        android:text="For Those Who Cannot Speak....."
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/tvadopt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/forthos"
+        android:layout_marginTop="20dp"
+        android:text="Adopt Us"
+        android:textSize="24dp"
+        app:drawableEndCompat="@drawable/ic_baseline_arrow_forward_24" />
+
+    <LinearLayout
+        android:id="@+id/adoptLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvadopt"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_margin="10dp"
+            android:layout_width="114dp"
+            android:layout_height="204dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/adoptme" />
+        <ImageView
+            android:layout_margin="10dp"
+            android:layout_width="114dp"
+            android:layout_height="204dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/adoptme1" />
+        <ImageView
+            android:layout_margin="10dp"
+            android:layout_width="114dp"
+            android:layout_height="204dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/adoutp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_below="@id/adoptLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_margin="10dp"
+            android:id="@+id/ng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/forthos"
+            android:layout_marginTop="20dp"
+            android:text="Animal helping NGGO's"
+            android:textSize="24sp"
+            app:drawableEndCompat="@drawable/ic_baseline_arrow_forward_24" />
+        <androidx.cardview.widget.CardView
+            android:layout_margin="10dp"
+            android:elevation="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/ngo1"
+                    android:layout_width="84dp"
+                    android:layout_height="134dp"
+                    android:adjustViewBounds="true"
+                    android:padding="10dp"
+                    android:src="@drawable/ani1" />
+
+                <TextView
+                    android:id="@+id/ngoname1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/ngo1"
+                    android:text="Sinhgad Animal Welfare Charitable Trust"
+                    android:textSize="18sp" />
+                <TextView
+                    android:id="@+id/phn1"
+                    android:layout_below="@id/ngoname1"
+                    android:layout_width="wrap_content"
+                    android:layout_toEndOf="@id/ngo1"
+                    android:textSize="18sp"
+                    android:text="1234567899"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/type1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/phn1"
+                    android:layout_toEndOf="@id/ngo1"
+                    android:text="Stray ANimals helper"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_margin="10dp"
+            android:elevation="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:scaleType="centerCrop"
+                    android:id="@+id/ngo2"
+                    android:layout_width="84dp"
+                    android:layout_height="134dp"
+                    android:adjustViewBounds="true"
+                    android:padding="10dp"
+                    android:src="@drawable/ani2" />
+
+                <TextView
+                    android:id="@+id/ngoname2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/ngo2"
+                    android:text="Paws For A Cause"
+                    android:textSize="18sp" />
+                <TextView
+                    android:id="@+id/phn2"
+                    android:layout_below="@id/ngoname2"
+                    android:layout_width="wrap_content"
+                    android:layout_toEndOf="@id/ngo2"
+                    android:textSize="18sp"
+                    android:text="1234127899"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/type2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/phn2"
+                    android:layout_toEndOf="@id/ngo2"
+                    android:text="NGOS"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_margin="10dp"
+            android:elevation="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:scaleType="centerCrop"
+                    android:id="@+id/ngo3"
+                    android:layout_width="84dp"
+                    android:layout_height="134dp"
+                    android:adjustViewBounds="true"
+                    android:padding="10dp"
+                    android:src="@drawable/anieve4" />
+
+                <TextView
+                    android:id="@+id/ngoname3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/ngo3"
+                    android:text="Rupam Foundation"
+                    android:textSize="18sp" />
+                <TextView
+                    android:id="@+id/phn3"
+                    android:layout_below="@id/ngoname3"
+                    android:layout_width="wrap_content"
+                    android:layout_toEndOf="@id/ngo3"
+                    android:textSize="18sp"
+                    android:text="1234686878"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/type3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/phn3"
+                    android:layout_toEndOf="@id/ngo3"
+                    android:text="Animal Shelter"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
 </RelativeLayout>
+</androidx.core.widget.NestedScrollView>
