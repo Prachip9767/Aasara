@@ -1,14 +1,23 @@
 package com.app.aasara
 
 import android.annotation.SuppressLint
+import android.app.NotificationChannel
+import android.app.NotificationManager
 import android.content.ContentValues.TAG
+import android.content.Context
 import android.content.Intent
+import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v4.os.IResultReceiver
+import android.support.v4.os.IResultReceiver.Default
 import android.util.Log
+import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
+import androidx.core.app.NotificationCompat
+import androidx.core.app.NotificationManagerCompat
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 
@@ -26,11 +35,20 @@ class AddEventActivity : AppCompatActivity() {
 
     // Access a Cloud Firestore instance from your Activity
     private val db = Firebase.firestore
-
+private lateinit var notificationChannel: NotificationChannel
+private lateinit var notificationManager: NotificationManager
+    @SuppressLint("WrongConstant")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_event)
         initViews()
+//        if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.O){
+//            notificationChannel= NotificationChannel("my noty","my noty", notificationManager.importance)
+//            notificationManager=getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
+//            val id: String = "my_channel_01"
+//            notificationManager.deleteNotificationChannel(id)
+//        }
+//        NotyBtn()
     }
 
     @SuppressLint("NotifyDataSetChanged")
@@ -81,5 +99,16 @@ class AddEventActivity : AppCompatActivity() {
             intent.putExtra("duration", duration)
             startActivity(intent)
         }
+    }
+    private fun NotyBtn() {
+        createEvent.setOnClickListener(View.OnClickListener {
+            val builder = NotificationCompat.Builder(applicationContext, "my noty")
+            builder.setContentTitle("Tean Aasara")
+            builder.setContentText("Thank You Your Donation.")
+            builder.setSmallIcon(R.drawable.ic_icons8_home)
+            builder.setAutoCancel(true)
+            val notificationManagerCompat = NotificationManagerCompat.from(applicationContext)
+            notificationManagerCompat.notify(1, builder.build())
+        })
     }
 }

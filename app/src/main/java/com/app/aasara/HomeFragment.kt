@@ -18,11 +18,12 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
 //        setImageInSlider(imageList, imageSlider = sliderView)
     }
 
-    private fun setImageInSlider(images: ArrayList<String>, imageSlider: SliderView) {
-        val adapter = MySliderImageAdapter()
-        adapter.renewItems(images)
-        imageSlider.setSliderAdapter(adapter)
-        imageSlider.isAutoCycle = true
-        imageSlider.startAutoCycle()
-    }
+//    private fun setImageInSlider(images: ArrayList<String>, imageSlider: SliderView) {
+//        val adapter = MySliderImageAdapter()
+//        adapter.renewItems(images)
+//        imageSlider.setSliderAdapter(adapter)
+//        imageSlider.isAutoCycle = true
+//        imageSlider.startAutoCycle()
+//    }
 }
+

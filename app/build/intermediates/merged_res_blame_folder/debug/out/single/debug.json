@@ -56,6 +56,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_two.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_circularbordersolid.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\circularbordersolid.xml"
     },
@@ -164,6 +168,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_sugettions.json.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\raw\\sugettions.json"
     },
@@ -212,6 +220,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_mother.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\mother.png"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_event.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_edit_event.xml"
     },
@@ -232,8 +244,16 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\notification.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_one.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_three.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\three.png"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_attach_file_24.xml.flat",

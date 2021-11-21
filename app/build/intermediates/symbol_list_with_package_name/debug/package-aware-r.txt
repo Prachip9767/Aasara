@@ -1962,6 +1962,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable mother
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1985,12 +1986,15 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable one
 drawable rectangle
 drawable selection_band_overlay
 drawable test_custom_background
 drawable test_level_drawable
+drawable three
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable two
 font amiko
 id ALT
 id BOTTOM_END
@@ -2074,6 +2078,7 @@ id aligned
 id all
 id allStates
 id always
+id amount_et
 id animateToEnd
 id animateToStart
 id animationView
@@ -2242,6 +2247,7 @@ id floating
 id forever
 id fragment_container_view_tag
 id frost
+id furry
 id furrybuddy
 id ghost_view
 id ghost_view_holder
@@ -2364,6 +2370,7 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id myimage
+id name
 id nav_controller_view_tag
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
@@ -2386,6 +2393,7 @@ id noState
 id none
 id normal
 id north
+id note
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -2453,6 +2461,7 @@ id seekhelp
 id select_dialog_listview
 id selected
 id selection_type
+id send
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -2463,7 +2472,6 @@ id sin
 id skipCollapsed
 id skipped
 id slide
-id sliders
 id snackbar_action
 id snackbar_text
 id snap
@@ -2572,6 +2580,7 @@ id uniform
 id unlabeled
 id up
 id updateEvent
+id upi_id
 id useLogo
 id vertical
 id vertical_only
@@ -2665,6 +2674,7 @@ layout abc_tooltip
 layout activity_add_event
 layout activity_edit_event
 layout activity_home
+layout activity_payment
 layout activity_registration_application
 layout custom_dialog
 layout design_bottom_navigation_item

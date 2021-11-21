@@ -18,6 +18,7 @@
         android:textSize="24sp" />
 
     <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/furry"
         android:layout_width="match_parent"
         android:layout_height="286dp"
         android:layout_below="@id/tvtittle"
@@ -30,6 +31,12 @@
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
         app:lottie_rawRes="@raw/dogandme" />
-
+<TextView
+    android:layout_marginTop="10dp"
+    android:layout_below="@id/furry"
+    android:layout_width="match_parent"
+    android:textSize="24sp"
+    android:text="For Those Who Cannot Speak....."
+    android:layout_height="wrap_content"/>
 
 </RelativeLayout>

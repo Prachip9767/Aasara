@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
 MERGED from [com.firebaseui:firebase-ui-firestore:8.0.0] C:\Users\parde\.gradle\caches\transforms-3\f3db94217fe01b9bc7a69ca98faba87d\transformed\jetified-firebase-ui-firestore-8.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.paging:paging-rxjava3:3.0.0] C:\Users\parde\.gradle\caches\transforms-3\76ffe07c99359c9609f93b94ddd35e44\transformed\jetified-paging-rxjava3-3.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\parde\.gradle\caches\transforms-3\5d5783b0e5722a003639aaf13fa02632\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
@@ -110,22 +110,22 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\parde\.gradle\caches\transforms-3\da69679a152e83a65265a2f938b2a059\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\parde\.gradle\caches\transforms-3\a4afedf8a39a596e383b921d3cb53d74\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\parde\.gradle\caches\transforms-3\49b1b4f01a3b51d13b47b15257c0fc89\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
 	package
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:4:5-29
 		INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
 		INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:1-68:12
 		INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:2:11-69
@@ -156,7 +156,7 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.0.0] C:
 	android:name
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:7:5-78
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:7:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\parde\.gradle\caches\transforms-3\23ada0dcf95d448423c38b8bdc433a59\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\parde\.gradle\caches\transforms-3\23ada0dcf95d448423c38b8bdc433a59\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
 MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\parde\.gradle\caches\transforms-3\bfdf5b4a95dda39c8872c10fd49a60cd\transformed\jetified-grpc-android-1.41.0\AndroidManifest.xml:11:5-79
@@ -186,7 +186,7 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 	android:name
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:7:22-76
 application
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:9:5-53:19
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:9:5-66:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\parde\.gradle\caches\transforms-3\85d28c44b86a0d7daf82e0bd918708c8\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\parde\.gradle\caches\transforms-3\85d28c44b86a0d7daf82e0bd918708c8\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\parde\.gradle\caches\transforms-3\14d6c6f070020c2410684418a5d52eab\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -285,72 +285,78 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:15:9-44
+activity#com.app.aasara.Payment
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:16:9-20:20
+	android:exported
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:17:13-36
 meta-data#com.google.firebase.messaging.default_notification_icon
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:16:9-18:59
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:22:9-24:59
 	android:resource
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:24:13-56
 	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:17:13-83
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:23:13-83
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:21:9-23:48
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:29:9-31:48
 	android:resource
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:23:13-45
-	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:22:13-84
-activity#com.app.aasara.RegistrationApplication
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:24:9-26:39
-	android:exported
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:26:13-36
-	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:25:13-52
-activity#com.app.aasara.EditEventActivity
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:27:9-29:39
-	android:exported
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:29:13-36
-	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:28:13-46
-activity#com.app.aasara.AddEventActivity
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:30:9-32:39
-	android:exported
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:32:13-36
-	android:name
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:31:13-45
-activity#com.app.aasara.HomeActivity
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:name
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:30:13-84
+activity#com.app.aasara.RegistrationApplication
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:33:9-35:39
 	android:exported
 		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:35:13-36
 	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:34:13-41
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:36:13-40:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:37:17-69
-	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:37:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:39:17-77
-	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:39:27-74
-service#com.app.aasara.MyFirebaseMessagingService
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:42:9-49:19
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:34:13-52
+activity#com.app.aasara.EditEventActivity
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:36:9-38:39
 	android:exported
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:44:13-37
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:37:13-46
+activity#com.app.aasara.AddEventActivity
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:exported
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:40:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.app.aasara.HomeActivity
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:48:9-52:20
+	android:exported
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:49:13-41
+service#com.app.aasara.MyFirebaseMessagingService
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:54:9-61:19
+	android:exported
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:56:13-37
 	tools:ignore
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:45:13-42
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:57:13-42
 	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:43:13-55
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:55:13-55
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:46:13-48:29
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:58:13-60:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:47:17-78
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:59:17-78
 	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:47:25-75
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:59:25-75
 meta-data#preloaded_fonts
-ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:50:9-52:57
+ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:63:9-65:57
 	android:resource
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:52:13-54
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:65:13-54
 	android:name
-		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:51:13-43
+		ADDED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml:64:13-43
 uses-sdk
 INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\parde\AndroidStudioProjects\Aasara\app\src\main\AndroidManifest.xml
