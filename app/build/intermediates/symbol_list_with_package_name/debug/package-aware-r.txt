@@ -1923,6 +1923,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable edit
+drawable foundation
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable homep
@@ -1948,6 +1949,14 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_store
+drawable imagae4
+drawable image1
+drawable image2
+drawable image3
+drawable image5
+drawable images6
+drawable imgae8
+drawable imgag7
 drawable lloyd
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
@@ -2102,6 +2111,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnAddToCart
+id btnBuy
 id btnChoose
 id btnUpload
 id btnhep
@@ -2246,6 +2257,7 @@ id floating
 id forever
 id fragment_container_view_tag
 id frost
+id fullImage
 id furry
 id furrybuddy
 id ghost_view
@@ -2308,6 +2320,7 @@ id line1
 id line3
 id linear
 id linearLayout
+id linearLayoutFor
 id linear_layout
 id listMode
 id list_item
@@ -2587,6 +2600,12 @@ id tvlogo
 id tvstart
 id tvtittle
 id tvvoter
+id txtAreaOfWork
+id txtContact
+id txtDescription
+id txtPrice
+id txtRating
+id txtname
 id unchecked
 id uniform
 id unlabeled
@@ -2687,6 +2706,7 @@ layout activity_add_event
 layout activity_edit_event
 layout activity_home
 layout activity_ngo_details
+layout activity_ngo_full_details
 layout activity_payment
 layout activity_registration_application
 layout activity_selling

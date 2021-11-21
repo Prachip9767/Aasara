@@ -1922,6 +1922,7 @@ int drawable design_ic_visibility_off 0x7f080079
 int drawable design_password_eye 0x7f08007a
 int drawable design_snackbar_background 0x7f08007b
 int drawable edit 0x7f08007c
+int drawable foundation 0x7f0800c1
 int drawable googleg_disabled_color_18 0x7f08007d
 int drawable googleg_standard_color_18 0x7f08007e
 int drawable homep 0x7f08007f
@@ -1947,6 +1948,14 @@ int drawable ic_mtrl_chip_checked_black 0x7f080092
 int drawable ic_mtrl_chip_checked_circle 0x7f080093
 int drawable ic_mtrl_chip_close_circle 0x7f080094
 int drawable ic_store 0x7f080095
+int drawable imagae4 0x7f0800c2
+int drawable image1 0x7f0800c3
+int drawable image2 0x7f0800c4
+int drawable image3 0x7f0800c5
+int drawable image5 0x7f0800c6
+int drawable images6 0x7f0800c7
+int drawable imgae8 0x7f0800c8
+int drawable imgag7 0x7f0800c9
 int drawable lloyd 0x7f080096
 int drawable material_cursor_drawable 0x7f080097
 int drawable material_ic_calendar_black_24dp 0x7f080098
@@ -2101,6 +2110,8 @@ int id bounce 0x7f0a0069
 int id bounceBoth 0x7f0a006a
 int id bounceEnd 0x7f0a006b
 int id bounceStart 0x7f0a006c
+int id btnAddToCart 0x7f0a026d
+int id btnBuy 0x7f0a026e
 int id btnChoose 0x7f0a006d
 int id btnUpload 0x7f0a006e
 int id btnhep 0x7f0a006f
@@ -2245,6 +2256,7 @@ int id floating 0x7f0a00f9
 int id forever 0x7f0a00fa
 int id fragment_container_view_tag 0x7f0a00fb
 int id frost 0x7f0a00fc
+int id fullImage 0x7f0a026f
 int id furry 0x7f0a00fd
 int id furrybuddy 0x7f0a00fe
 int id ghost_view 0x7f0a00ff
@@ -2307,6 +2319,7 @@ int id line1 0x7f0a0137
 int id line3 0x7f0a0138
 int id linear 0x7f0a0139
 int id linearLayout 0x7f0a013a
+int id linearLayoutFor 0x7f0a0276
 int id linear_layout 0x7f0a013b
 int id listMode 0x7f0a013c
 int id list_item 0x7f0a013d
@@ -2586,6 +2599,12 @@ int id tvlogo 0x7f0a024e
 int id tvstart 0x7f0a024f
 int id tvtittle 0x7f0a0250
 int id tvvoter 0x7f0a0251
+int id txtAreaOfWork 0x7f0a0270
+int id txtContact 0x7f0a0271
+int id txtDescription 0x7f0a0272
+int id txtPrice 0x7f0a0273
+int id txtRating 0x7f0a0274
+int id txtname 0x7f0a0275
 int id unchecked 0x7f0a0252
 int id uniform 0x7f0a0253
 int id unlabeled 0x7f0a0254
@@ -2686,6 +2705,7 @@ int layout activity_add_event 0x7f0d001c
 int layout activity_edit_event 0x7f0d001d
 int layout activity_home 0x7f0d001e
 int layout activity_ngo_details 0x7f0d001f
+int layout activity_ngo_full_details 0x7f0d0091
 int layout activity_payment 0x7f0d0020
 int layout activity_registration_application 0x7f0d0021
 int layout activity_selling 0x7f0d0022

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
-INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
-INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
-INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
 MERGED from [com.firebaseui:firebase-ui-firestore:8.0.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\f3db94217fe01b9bc7a69ca98faba87d\transformed\jetified-firebase-ui-firestore-8.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.paging:paging-rxjava3:3.0.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\76ffe07c99359c9609f93b94ddd35e44\transformed\jetified-paging-rxjava3-3.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\084a2291921f8a0397f688a9d363cffb\transformed\navigation-fragment-ktx-2.1.0\AndroidManifest.xml:17:1-24:12
@@ -106,22 +106,22 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\da69679a152e83a65265a2f938b2a059\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\a4afedf8a39a596e383b921d3cb53d74\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\49b1b4f01a3b51d13b47b15257c0fc89\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
-INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
-INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
 	package
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:4:5-29
 		INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
 		INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-85:12
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:1-76:12
 		INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:2:11-69
@@ -182,7 +182,7 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 	android:name
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:7:22-76
 application
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:11:5-83:19
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:10:5-74:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\85d28c44b86a0d7daf82e0bd918708c8\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\85d28c44b86a0d7daf82e0bd918708c8\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\Reeta Thakur\.gradle\caches\transforms-3\14d6c6f070020c2410684418a5d52eab\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -266,93 +266,95 @@ MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\
 	android:supportsRtl
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:15:9-54
+	android:largeHeap
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:14:9-33
 	android:icon
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:17:9-44
-activity#com.app.aasara.Payment
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:18:9-22:20
+activity#com.app.aasara.ngoDetail.NgoFullDetailsActivity
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:18:9-20:39
 	android:exported
 		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:19:13-36
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:19:13-61
+activity#com.app.aasara.Payment
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:21:9-23:48
+	android:exported
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:22:13-36
 meta-data#com.google.firebase.messaging.default_notification_icon
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:24:9-26:59
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:25:9-27:59
 	android:resource
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:26:13-56
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:27:13-56
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:25:13-83
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:26:13-83
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:31:9-33:48
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:32:9-34:48
 	android:resource
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:33:13-45
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:34:13-45
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:32:13-84
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:33:13-84
 activity#com.app.aasara.RegistrationApplication
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:35:9-37:39
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:36:9-38:39
 	android:exported
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:37:13-36
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:38:13-36
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:36:13-52
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:37:13-52
 activity#com.app.aasara.EditEventActivity
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:38:9-40:39
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:39:9-41:39
 	android:exported
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:41:13-36
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:39:13-46
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:40:13-46
 activity#com.app.aasara.AddEventActivity
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:41:9-47:20
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:42:9-46:49
 	android:exported
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:44:13-36
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:42:13-45
-activity#com.app.aasara.ngoDetail.NgoDetailsActivity
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:48:9-53:20
-	android:exported
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:50:13-36
-	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:49:13-57
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:43:13-45
 meta-data#preloaded_fonts
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:58:9-60:57
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:48:9-50:57
 	android:resource
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:60:13-54
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:50:13-54
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:59:13-43
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:49:13-43
 activity#com.app.aasara.HomeActivity
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:61:9-69:20
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:52:9-60:20
 	android:exported
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:63:13-36
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:54:13-36
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:62:13-41
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:53:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:64:13-68:29
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:55:13-59:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:65:17-69
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:56:17-69
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:65:25-66
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:56:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:67:17-77
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:58:17-77
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:67:27-74
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:58:27-74
 service#com.app.aasara.MyFirebaseMessagingService
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:71:9-78:19
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:62:9-69:19
 	android:exported
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:73:13-37
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:64:13-37
 	tools:ignore
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:74:13-42
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:65:13-42
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:72:13-55
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:63:13-55
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:75:13-77:29
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:66:13-68:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:76:17-78
+ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:67:17-78
 	android:name
-		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:76:25-75
+		ADDED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml:67:25-75
 uses-sdk
 INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Reeta Thakur\Desktop\AasaraFinal\app\src\main\AndroidManifest.xml

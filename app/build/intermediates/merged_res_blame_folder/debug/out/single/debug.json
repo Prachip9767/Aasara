@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bell.xml.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_selling.xml.flat",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_thankyou.json.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\thankyou.json"
-    },
-    {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_item_reg.xml.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\item_reg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_thankyou.json.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\thankyou.json"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -50,6 +50,10 @@
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\raw_seekhelp.json.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\raw\\seekhelp.json"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_imagae4.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\imagae4.jpg"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registration_application.xml.flat",
@@ -78,6 +82,10 @@
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_ngo_details_layout.xml.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\ngo_details_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_image5.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\image5.jpg"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_add.png.flat",
@@ -152,8 +160,16 @@
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_baseline_expand_less_24.xml"
     },
     {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_image2.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\image2.jpg"
+    },
+    {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_furry_buddy.xml.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_furry_buddy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_imgag7.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\imgag7.jpg"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.png.flat",
@@ -162,6 +178,10 @@
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_thank_you.xml.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_thank_you.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_foundation.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\foundation.jpg"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_homep.png.flat",
@@ -178,6 +198,10 @@
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_imgae8.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\imgae8.jpg"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -220,6 +244,10 @@
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\ic_donate.xml"
     },
     {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_image1.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\image1.jpg"
+    },
+    {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ngos.xml.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\fragment_ngos.xml"
     },
@@ -234,6 +262,18 @@
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_lloyd.png.flat",
         "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\lloyd.png"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_images6.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\images6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ngo_full_details.xml.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\layout\\activity_ngo_full_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_image3.jpg.flat",
+        "source": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\src\\main\\res\\drawable\\image3.jpg"
     },
     {
         "merged": "C:\\Users\\Reeta Thakur\\Desktop\\AasaraFinal\\app\\build\\intermediates\\merged_res\\debug\\drawable_delete.png.flat",
