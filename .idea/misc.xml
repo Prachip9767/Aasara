@@ -22,17 +22,29 @@
         <entry key="..\:/Users/Leena/StudioProjects/Aasara/app/src/main/res/layout/fragment_seek_help.xml" value="0.13269927536231885" />
         <entry key="..\:/Users/Leena/StudioProjects/Aasara/app/src/main/res/layout/paytm_event_item_layout.xml" value="0.13541666666666666" />
         <entry key="..\:/Users/Leena/StudioProjects/Aasara/app/src/main/res/layout/slider_layout.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/circularbordersolid.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/ic_baseline_image_search_24.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/ic_home.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/ic_mic_white_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/sent_bubble.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/activity_add_event.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/activity_edit_event.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/activity_home.xml" value="0.1265625" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/activity_registration_application.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/attachment_layout.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/chat_fragment.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/event_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_community.xml" value="0.2" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_events.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_furry_buddy.xml" value="0.1265625" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_home.xml" value="0.1265625" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_regestration.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_registration.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_seek_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/item_chat.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/item_reg.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/sent_message_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/slider_image.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
