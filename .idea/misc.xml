@@ -25,6 +25,7 @@
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/circularbordersolid.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/ic_baseline_image_search_24.xml" value="0.25555555555555554" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/ic_home.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/ic_icons8_home.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/ic_mic_white_24dp.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/drawable/sent_bubble.xml" value="0.14635416666666667" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/activity_add_event.xml" value="0.25416666666666665" />
@@ -43,8 +44,10 @@
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/fragment_seek_help.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/item_chat.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/item_reg.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/notification.xml" value="0.2" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/sent_message_item.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/parde/AndroidStudioProjects/Aasara/app/src/main/res/layout/slider_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/parde/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.1265625" />
       </map>
     </option>
   </component>

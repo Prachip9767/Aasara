@@ -16,6 +16,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\item_reg.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_mic_24.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_mic_24.xml"
     },
@@ -38,6 +42,10 @@
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_donate.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_homep.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\homep.png"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -140,6 +148,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_menuicon.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_icons8_home.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_icons8_home.xml"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\raw_resister.json.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\raw\\resister.json"
     },
@@ -214,6 +226,10 @@
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_add.png.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_notification.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\notification.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
