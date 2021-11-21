@@ -36,6 +36,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_add_event.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_ngo_details_layout.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\ngo_details_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_rectangle.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\rectangle.xml"
     },
@@ -52,12 +56,16 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_two.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_two.png.flat",
-        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\two.png"
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\font_baloo.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\font\\baloo.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_circularbordersolid.xml.flat",
@@ -180,6 +188,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\raw\\thankyou.json"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_selling.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_selling.xml"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_regestration.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\fragment_regestration.xml"
     },
@@ -252,6 +264,10 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ngo_details.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\activity_ngo_details.xml"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_three.png.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\three.png"
     },
@@ -260,133 +276,19 @@
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\ic_baseline_attach_file_24.xml"
     },
     {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_selling_layout.xml.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\selling_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_appnamelogo.png.flat",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\drawable\\appnamelogo.png"
+    },
+    {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_furry_buddy.xml.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\layout\\fragment_furry_buddy.xml"
     },
     {
         "merged": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\parde\\AndroidStudioProjects\\Aasara\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_location.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\drawable\\ic_location.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_ngo_details.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\activity_ngo_details.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_appnamelogo.png.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\drawable\\appnamelogo.png"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ngos.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\fragment_ngos.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_donate.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\fragment_donate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_event.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\drawable\\ic_event.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_ngo_details_layout.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\ngo_details_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\activity_home.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_store.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\drawable\\ic_store.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_selling_layout.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\selling_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_events.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\fragment_events.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_selling.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\activity_selling.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_store.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\layout\\fragment_store.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\font_baloo.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\font\\baloo.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_donate.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\drawable\\ic_donate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
-        "source": "C:\\Users\\Reeta Thakur\\Desktop\\Aasara\\app\\src\\main\\res\\drawable\\ic_home.xml"
     }
 ]

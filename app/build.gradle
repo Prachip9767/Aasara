@@ -2,10 +2,8 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
     id 'kotlin-kapt'
-    id 'kotlin-android-extensions'
     id 'com.google.gms.google-services' // Firebase Google Services
     id 'kotlin-android-extensions'
-    id 'kotlin-kapt'
 }
 
 android {
