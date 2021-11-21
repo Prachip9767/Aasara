@@ -42,13 +42,22 @@ private lateinit var notificationManager: NotificationManager
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_event)
         initViews()
-//        if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.O){
-//            notificationChannel= NotificationChannel("my noty","my noty", notificationManager.importance)
-//            notificationManager=getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
-//            val id: String = "my_channel_01"
-//            notificationManager.deleteNotificationChannel(id)
-//        }
-//        NotyBtn()
+        if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.O){
+            notificationChannel= NotificationChannel("my noty","my noty", notificationManager.importance)
+            notificationManager=getSystemService(Context.NOTIFICATION_SERVICE) as NotificationManager
+            val id: String = "my_channel_01"
+            notificationManager.deleteNotificationChannel(id)
+        }
+        createEvent.setOnClickListener(View.OnClickListener {
+            val builder = NotificationCompat.Builder(applicationContext, "my noty")
+            builder.setContentTitle("Tean Aasara")
+            builder.setContentText("Thank You Your Donation.")
+            builder.setSmallIcon(R.drawable.ic_icons8_home)
+            builder.setAutoCancel(true)
+            val notificationManagerCompat = NotificationManagerCompat.from(applicationContext)
+            notificationManagerCompat.notify(1, builder.build())
+        })
+
     }
 
     @SuppressLint("NotifyDataSetChanged")
@@ -100,15 +109,7 @@ private lateinit var notificationManager: NotificationManager
             startActivity(intent)
         }
     }
-    private fun NotyBtn() {
-        createEvent.setOnClickListener(View.OnClickListener {
-            val builder = NotificationCompat.Builder(applicationContext, "my noty")
-            builder.setContentTitle("Tean Aasara")
-            builder.setContentText("Thank You Your Donation.")
-            builder.setSmallIcon(R.drawable.ic_icons8_home)
-            builder.setAutoCancel(true)
-            val notificationManagerCompat = NotificationManagerCompat.from(applicationContext)
-            notificationManagerCompat.notify(1, builder.build())
-        })
-    }
+//    private fun NotyBtn() {
+//
+//    }
 }

@@ -1884,6 +1884,16 @@ int drawable abc_textfield_search_default_mtrl_alpha 0x7f080053
 int drawable abc_textfield_search_material 0x7f080054
 int drawable abc_vector_test 0x7f080055
 int drawable add 0x7f080056
+int drawable adop 0x7f0800c1
+int drawable adoptme 0x7f0800c2
+int drawable adoptme1 0x7f0800c3
+int drawable adoutp 0x7f0800c4
+int drawable andopt 0x7f0800c5
+int drawable ani1 0x7f0800c6
+int drawable ani2 0x7f0800c7
+int drawable anieve1 0x7f0800c8
+int drawable anieve2 0x7f0800c9
+int drawable anieve4 0x7f0800ca
 int drawable appnamelogo 0x7f080057
 int drawable avd_hide_password 0x7f080058
 int drawable avd_show_password 0x7f080059
@@ -1924,8 +1934,12 @@ int drawable design_snackbar_background 0x7f08007b
 int drawable edit 0x7f08007c
 int drawable googleg_disabled_color_18 0x7f08007d
 int drawable googleg_standard_color_18 0x7f08007e
+int drawable help2 0x7f0800cb
+int drawable helpq 0x7f0800cc
 int drawable homep 0x7f08007f
 int drawable ic_baseline_account_circle_24 0x7f080080
+int drawable ic_baseline_arrow_back_24 0x7f0800cd
+int drawable ic_baseline_arrow_forward_24 0x7f0800ce
 int drawable ic_baseline_attach_file_24 0x7f080081
 int drawable ic_baseline_expand_less_24 0x7f080082
 int drawable ic_baseline_home_24 0x7f080083
@@ -2069,6 +2083,7 @@ int id addEvent 0x7f0a0049
 int id adhar_num 0x7f0a004a
 int id adjust_height 0x7f0a004b
 int id adjust_width 0x7f0a004c
+int id adoptLinear 0x7f0a026d
 int id alertTitle 0x7f0a004d
 int id aligned 0x7f0a004e
 int id all 0x7f0a004f
@@ -2243,6 +2258,7 @@ int id fixed 0x7f0a00f7
 int id flip 0x7f0a00f8
 int id floating 0x7f0a00f9
 int id forever 0x7f0a00fa
+int id forthos 0x7f0a026e
 int id fragment_container_view_tag 0x7f0a00fb
 int id frost 0x7f0a00fc
 int id furry 0x7f0a00fd
@@ -2379,6 +2395,10 @@ int id navigation_header_container 0x7f0a017f
 int id never 0x7f0a0180
 int id neverCompleteToEnd 0x7f0a0181
 int id neverCompleteToStart 0x7f0a0182
+int id ng 0x7f0a026f
+int id ngo1 0x7f0a0270
+int id ngo2 0x7f0a0271
+int id ngo3 0x7f0a0272
 int id ngoAddress 0x7f0a0183
 int id ngoAreaOfWork 0x7f0a0184
 int id ngoContact 0x7f0a0185
@@ -2393,6 +2413,9 @@ int id ngo_name 0x7f0a018d
 int id ngo_passport 0x7f0a018e
 int id ngo_voter 0x7f0a018f
 int id ngo_year 0x7f0a0190
+int id ngoname1 0x7f0a0273
+int id ngoname2 0x7f0a0274
+int id ngoname3 0x7f0a0275
 int id noScroll 0x7f0a0191
 int id noState 0x7f0a0192
 int id none 0x7f0a0193
@@ -2419,6 +2442,9 @@ int id path 0x7f0a01a7
 int id pathRelative 0x7f0a01a8
 int id peekHeight 0x7f0a01a9
 int id percent 0x7f0a01aa
+int id phn1 0x7f0a0276
+int id phn2 0x7f0a0277
+int id phn3 0x7f0a0278
 int id pin 0x7f0a01ab
 int id position 0x7f0a01ac
 int id postLayout 0x7f0a01ad
@@ -2578,6 +2604,7 @@ int id tvState 0x7f0a0246
 int id tvStateof 0x7f0a0247
 int id tvadd 0x7f0a0248
 int id tvaddof 0x7f0a0249
+int id tvadopt 0x7f0a0279
 int id tvbill 0x7f0a024a
 int id tvcity 0x7f0a024b
 int id tvcityof 0x7f0a024c
@@ -2586,6 +2613,9 @@ int id tvlogo 0x7f0a024e
 int id tvstart 0x7f0a024f
 int id tvtittle 0x7f0a0250
 int id tvvoter 0x7f0a0251
+int id type1 0x7f0a027a
+int id type2 0x7f0a027b
+int id type3 0x7f0a027c
 int id unchecked 0x7f0a0252
 int id uniform 0x7f0a0253
 int id unlabeled 0x7f0a0254
@@ -2807,6 +2837,8 @@ int plurals mtrl_badge_content_description 0x7f100000
 int raw community 0x7f110000
 int raw dogandme 0x7f110001
 int raw furrybud 0x7f110002
+int raw happydog 0x7f110007
+int raw happypeo 0x7f110008
 int raw resister 0x7f110003
 int raw seekhelp 0x7f110004
 int raw sugettions 0x7f110005

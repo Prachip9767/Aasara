@@ -1885,6 +1885,16 @@ drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable add
+drawable adop
+drawable adoptme
+drawable adoptme1
+drawable adoutp
+drawable andopt
+drawable ani1
+drawable ani2
+drawable anieve1
+drawable anieve2
+drawable anieve4
 drawable appnamelogo
 drawable avd_hide_password
 drawable avd_show_password
@@ -1925,8 +1935,12 @@ drawable design_snackbar_background
 drawable edit
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable help2
+drawable helpq
 drawable homep
 drawable ic_baseline_account_circle_24
+drawable ic_baseline_arrow_back_24
+drawable ic_baseline_arrow_forward_24
 drawable ic_baseline_attach_file_24
 drawable ic_baseline_expand_less_24
 drawable ic_baseline_home_24
@@ -2070,6 +2084,7 @@ id addEvent
 id adhar_num
 id adjust_height
 id adjust_width
+id adoptLinear
 id alertTitle
 id aligned
 id all
@@ -2244,6 +2259,7 @@ id fixed
 id flip
 id floating
 id forever
+id forthos
 id fragment_container_view_tag
 id frost
 id furry
@@ -2380,6 +2396,10 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id ng
+id ngo1
+id ngo2
+id ngo3
 id ngoAddress
 id ngoAreaOfWork
 id ngoContact
@@ -2394,6 +2414,9 @@ id ngo_name
 id ngo_passport
 id ngo_voter
 id ngo_year
+id ngoname1
+id ngoname2
+id ngoname3
 id noScroll
 id noState
 id none
@@ -2420,6 +2443,9 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id phn1
+id phn2
+id phn3
 id pin
 id position
 id postLayout
@@ -2579,6 +2605,7 @@ id tvState
 id tvStateof
 id tvadd
 id tvaddof
+id tvadopt
 id tvbill
 id tvcity
 id tvcityof
@@ -2587,6 +2614,9 @@ id tvlogo
 id tvstart
 id tvtittle
 id tvvoter
+id type1
+id type2
+id type3
 id unchecked
 id uniform
 id unlabeled
@@ -2808,6 +2838,8 @@ plurals mtrl_badge_content_description
 raw community
 raw dogandme
 raw furrybud
+raw happydog
+raw happypeo
 raw resister
 raw seekhelp
 raw sugettions

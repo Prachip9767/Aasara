@@ -56,24 +56,20 @@
         <activity
             android:name="com.app.aasara.ngoDetail.NgoDetailsActivity"
             android:exported="true" >
+        </activity>
+        <activity
+            android:name="com.app.aasara.HomeActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.app.aasara.HomeActivity"
-            android:exported="true" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
-
-        <activity
-            android:name="com.app.aasara.HomeActivity"
-            android:exported="true" >
-        </activity>
 
         <service
             android:name="com.app.aasara.MyFirebaseMessagingService"
