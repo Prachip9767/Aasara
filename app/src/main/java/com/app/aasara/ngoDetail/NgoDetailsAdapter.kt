@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.app.aasara.R
 import com.bumptech.glide.Glide
 
-class NgoDetailsAdapter(var list:ArrayList<NgoDetail>): RecyclerView.Adapter<NgoDetailsAdapter.NgoViewHolder>() {
+class NgoDetailsAdapter(var list:ArrayList<NgoDetail>,var listner:FullShow): RecyclerView.Adapter<NgoDetailsAdapter.NgoViewHolder>() {
 
      var expandable: Expandable = Expandable()
 
@@ -31,6 +31,12 @@ class NgoDetailsAdapter(var list:ArrayList<NgoDetail>): RecyclerView.Adapter<Ngo
         holder.linearLayout.setOnClickListener {
           expandable.setExpandable(!isExpandable)
           notifyItemChanged(position)
+        }
+
+        holder.linearLayout.setOnLongClickListener {
+            listner.showFullDetails(position)
+            return@setOnLongClickListener true
+
         }
     }
 
