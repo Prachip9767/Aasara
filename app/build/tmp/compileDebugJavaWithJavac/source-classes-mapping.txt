@@ -1,5 +1,7 @@
 com/app/aasara/BuildConfig.java
  com.app.aasara.BuildConfig
+com/app/aasara/sellingDetails/NgoFullDetailsActivity.java
+ com.app.aasara.sellingDetails.NgoFullDetailsActivity
 com/app/aasara/Payment.java
  com.app.aasara.Payment
  com.app.aasara.Payment$1

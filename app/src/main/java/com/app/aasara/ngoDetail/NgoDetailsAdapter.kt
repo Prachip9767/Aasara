@@ -9,6 +9,7 @@ import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.recyclerview.widget.RecyclerView
 import com.app.aasara.R
+import com.app.aasara.sellingDetails.FullShow
 import com.bumptech.glide.Glide
 
 class NgoDetailsAdapter(var list:ArrayList<NgoDetail>,var listner:FullShow): RecyclerView.Adapter<NgoDetailsAdapter.NgoViewHolder>() {

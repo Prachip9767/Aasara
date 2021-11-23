@@ -11,6 +11,8 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.app.aasara.commanInBoth.MainUIModel
 import com.app.aasara.ngoDetail.*
+import com.app.aasara.sellingDetails.FullShow
+import com.app.aasara.sellingDetails.NgoFullDetailsActivity
 import kotlinx.android.synthetic.main.activity_ngo_details.*
 
 class NgosFragment : Fragment(R.layout.fragment_ngos),FullShow {
@@ -49,7 +51,7 @@ class NgosFragment : Fragment(R.layout.fragment_ngos),FullShow {
     }
 
     override fun showFullDetails(position: Int) {
-        val intent=Intent(context,NgoFullDetailsActivity::class.java)
+        val intent=Intent(context, NgoFullDetailsActivity::class.java)
         startActivity(intent)
     }
 }
